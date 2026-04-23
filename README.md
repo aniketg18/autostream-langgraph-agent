@@ -101,9 +101,11 @@ The demo video demonstrates:
 3. Collecting user details (name, email, platform)  
 4. Successfully capturing leads  
 
-👉 **Watch Demo Video Here:**  
-[https://drive.google.com/file/d/19S3rC85o94j2T1MBfdr3gUNJ48LSlOYE/view?usp=sharing]
-[https://drive.google.com/file/d/1-1RdUUxcLb4ofbmZd-f3IxTDUg7Ded_t/view?usp=drive_link]
+👉 **Primary Video (HD):**  
+https://drive.google.com/file/d/19S3rC85o94j2T1MBfdr3gUNJ48LSlOYE/view?usp=sharing  
+
+👉 **Backup Video:**  
+https://drive.google.com/file/d/1-1RdUUxcLb4ofbmZd-f3IxTDUg7Ded_t/view?usp=drive_link
 
 ---
 
